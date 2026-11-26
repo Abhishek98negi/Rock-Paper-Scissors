@@ -222,5 +222,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-#Image folder
+# Image folder
 data
+
+# Experiment tracking folders
+runs
+
+# model folder
+models
